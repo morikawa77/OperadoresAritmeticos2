@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OperadoresAritmeticos2/bin/Debug/OperadoresAritmeticos2.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OperadoresAritmeticos2/bin/Debug/OperadoresAritmeticos2.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OperadoresAritmeticos2/obj/x86/Debug/OperadoresAritmeticos2.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OperadoresAritmeticos2/obj/x86/Debug/OperadoresAritmeticos2.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OperadoresAritmeticos2/obj/x86/Debug/OperadoresAritmeticos2.pdb
